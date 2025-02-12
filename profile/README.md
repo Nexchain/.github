@@ -5,16 +5,66 @@ Nexchain is a blockchain protocol that integrates artificial intelligence (AI) t
 
 The development roadmap includes a phased implementation, beginning with the presale and initial launch, followed by the deployment of developer tools, scalability enhancements, and full ecosystem expansion. Nexchain provides an infrastructure for blockchain applications requiring high efficiency, automation, and adaptability to evolving computational demands.
 
-## 📂 Introduction
-Blockchain networks facilitate decentralized computation and asset transfers by leveraging distributed consensus mechanisms. However, existing implementations face limitations in scalability, interoperability, and security. Network congestion, high transaction costs, and reliance on static consensus models constrain performance, while governance inefficiencies and security vulnerabilities introduce additional challenges.
+## 🗺️ Roadmap
 
-Nexchain is designed to address these constraints by integrating artificial intelligence (AI) into blockchain architecture. AI is utilized to optimize consensus mechanisms, enhance smart contract functionality, and improve network security. The system employs a hybrid Proof-of-Stake (PoS) model with AI-driven adjustments to transaction processing parameters, reducing validation times while maintaining decentralization. Additionally, Nexchain incorporates sharding and Directed Acyclic Graphs (DAGs) to enable parallel transaction execution, increasing network throughput.
+### Phase 1: Token Sale and Network Initialization (Months 0-6)
+- Launch of Seed, Private, and Public Rounds, raising a total of $80 million.
 
-Interoperability is supported through advanced bridging protocols, allowing asset transfers and cross-chain communication between disparate blockchain ecosystems. AI-enhanced smart contracts introduce adaptive execution logic, enabling automated decision-making based on real-time network conditions. Fraud detection mechanisms leverage machine learning models to identify anomalous transaction patterns, mitigating the risk of malicious activity.
+- Deployment of Testnet v1.0, enabling early-stage validators and developer access.
 
-Nexchain’s token model is structured to facilitate transaction processing, staking rewards, and governance participation. An inflationary issuance model with an annual burning mechanism is implemented to regulate supply and sustain network incentives. Security measures include post-quantum cryptography, AI-based anomaly detection, and self-healing network mechanisms designed to maintain operational integrity under adverse conditions.
+- Implementation of post-quantum cryptographic layer for early-stage security validation.
 
-The protocol is intended for use in applications requiring high-performance blockchain infrastructure, including financial services, supply chain management, healthcare, IoT, and decentralized AI platforms. The following sections will detail the system’s architecture, tokenomics, security framework, and governance model.
+- Establishment of initial DEX liquidity pools and market-making mechanisms.
+
+- Launch of Nexchain developer SDKs and AI module integration tools.
+
+### Phase 2: Mainnet Launch and AI-Driven Optimization (Months 6-12)
+
+- Deployment of Nexchain Mainnet v1.0, enabling AI-enhanced Proof-of-Stake consensus.
+
+- Activation of AI-driven fraud detection and anomaly detection models.
+
+- Implementation of Smart Contracts 2.0, incorporating self-optimizing execution logic.
+
+- Launch of staking rewards program, onboarding validators and delegators.
+
+- Initial cross-chain bridge deployments, supporting Ethereum, BSC, and Polygon networks.
+
+### Phase 3: Scalability Enhancements and Ecosystem Growth (Months 12-24)
+
+- Introduction of sharding and DAG-based parallel transaction processing for scalability.
+
+- Expansion of cross-chain interoperability, integrating additional blockchain networks.
+
+- Deployment of decentralized AI services, enabling federated learning and AI model monetization.
+
+- Optimization of self-healing network mechanisms, improving validator resilience.
+
+- Expansion of partnerships with DeFi, NFT, and enterprise blockchain applications.
+
+### Phase 4: Governance Integration and Mass Adoption (Months 24-36)
+
+- Activation of on-chain governance, enabling decentralized decision-making.
+
+- Launch of institutional adoption initiatives, targeting financial, healthcare, and IoT sectors.
+
+- Integration of AI-powered automated policy enforcement for regulatory compliance.
+
+- Expansion of enterprise blockchain solutions, enabling large-scale adoption.
+
+- Further enhancements to energy-efficient AI-driven network scaling.
+
+### Phase 5: Long-Term Expansion and Optimization (Beyond Month 36)
+
+- Continued R&D in post-quantum cryptographic advancements.
+
+- Ongoing upgrades to AI-driven smart contract capabilities.
+
+- Expansion into next-generation decentralized computing and AI-driven automation.
+
+- Establishment of global research partnerships for AI-blockchain convergence.
+
+- Development of new zero-knowledge proof implementations for enhanced privacy.
 
 ## 📊 Tokenomics
 Nexchain’s tokenomics model is structured to support network security, incentivize participation, and sustain long-term value through controlled issuance and strategic allocation. The total initial supply of Nexchain tokens is 3,750,000,000, distributed across various categories, including early-stage investment rounds, ecosystem incentives, staking rewards, and liquidity provisioning. Nexchain employs an inflationary issuance model with an annual burn mechanism to regulate supply while ensuring continued token utility.
