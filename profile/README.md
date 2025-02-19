@@ -72,20 +72,20 @@ Nexchain’s tokenomics model is structured to support network security, incenti
 
 
 ### Token Supply
-| Initial Market Cap | $233,100,000	|
+| Initial Market Cap | $523,525,000	|
 | ----------- | ----------- |
-| Fully Diluted Market Cap | $630,000,000 |
-| Price Variable (IDO/Listing) | $0.1680 |
-| Initial Circulating Supply |  1,387,500,000 |
+| Fully Diluted Market Cap | $430,000,000 |
+| Price Variable (IDO/Listing) | $0.20 |
+| Initial Circulating Supply |  523,525,000 |
 
 ### NEX Token Sale
 
 | Stage | Raise Total | % Supply | Tokens | Price | Discount on public | TGE Unlock |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Seed | $9,900,000 | 6.00% | 45,000,000 | $0.0440 | -73.81% | 20.00% |
-| Private | $19,800,000 | 6.00% | 45,000,000 | $0.0880 | -47.62% | 20.00% |
-| Public | $50,400,000 | 8.00% | 60,000,000 | $0.1680 | | |
-| Total | $80,100,000 | 20.00% | 150,000,000 | | | |
+| Seed | $15,050,000 | 5.00% | 107,500,000 | $0.140 | -42.86% | 0.00% |
+| Private | $25,585,000 | 7.00% | 150,500,000 | $0.170 | -17.65% | 5.00% |
+| Public | $50,000,000 | 20.00% | 172,000,000 | $0.20 | | 15.00% |
+| Total | $90,635,000 | 32.00% | 430,000,000 | | | |
 
 ### NEX Token Allocation
 
