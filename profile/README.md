@@ -67,7 +67,7 @@ The development roadmap includes a phased implementation, beginning with the pre
 - Development of new zero-knowledge proof implementations for enhanced privacy.
 
 ## 📊 Tokenomics
-Nexchain’s tokenomics model is structured to support network security, incentivize participation, and sustain long-term value through controlled issuance and strategic allocation. The total initial supply of Nexchain tokens is 3,750,000,000, distributed across various categories, including early-stage investment rounds, ecosystem incentives, staking rewards, and liquidity provisioning. Nexchain employs an inflationary issuance model with an annual burn mechanism to regulate supply while ensuring continued token utility.
+Nexchain’s tokenomics model is structured to support network security, incentivize participation, and sustain long-term value through controlled issuance and strategic allocation. The total initial supply of Nexchain tokens is 2,150,000,000, distributed across various categories, including early-stage investment rounds, ecosystem incentives, staking rewards, and liquidity provisioning. Nexchain employs an inflationary issuance model with an annual burn mechanism to regulate supply while ensuring continued token utility.
 
 
 
@@ -89,4 +89,4 @@ Nexchain’s tokenomics model is structured to support network security, incenti
 
 ### NEX Token Allocation
 
-![Token Allocation](https://github.com/Nexchain/.github/blob/main/NEX%20Tokenomics.jpg?raw=true)
+![Token Allocation](https://github.com/Nexchain/.github/blob/main/NEX%20Tokenomics.avif?raw=true)
