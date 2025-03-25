@@ -72,10 +72,10 @@ Nexchain’s tokenomics model is structured to support network security, incenti
 
 
 ### Token Supply
-| Initial Market Cap | $523,525,000	|
+| Initial Market Cap | $157,057,500 |
 | ----------- | ----------- |
 | Fully Diluted Market Cap | $430,000,000 |
-| Price Variable (IDO/Listing) | $0.20 |
+| Price Variable (Listing) | $0.30 |
 | Initial Circulating Supply |  523,525,000 |
 
 ### NEX Token Sale
