@@ -78,15 +78,12 @@ Nexchain’s tokenomics model is structured to support network security, incenti
 | Price Variable (Listing) | $0.30 |
 | Initial Circulating Supply |  523,525,000 |
 
-### NEX Token Sale
-
-| Stage | Raise Total | % Supply | Tokens | Price | Discount on public | TGE Unlock |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Seed | $15,050,000 | 5.00% | 107,500,000 | $0.140 | -42.86% | 0.00% |
-| Private | $25,585,000 | 7.00% | 150,500,000 | $0.170 | -17.65% | 5.00% |
-| Public | $50,000,000 | 20.00% | 172,000,000 | $0.20 | | 15.00% |
-| Total | $90,635,000 | 32.00% | 430,000,000 | | | |
 
 ### NEX Token Allocation
 
 ![Token Allocation](https://github.com/Nexchain/.github/blob/main/NEX%20Tokenomics.avif?raw=true)
+
+
+### SolidProof audit results
+
+https://app.solidproof.io/projects/nexchain
