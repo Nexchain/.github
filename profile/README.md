@@ -48,7 +48,7 @@ The development roadmap includes a phased implementation, beginning with the pre
 
 ### Q3 2025 – Launch Nexchain Testnet
 
-- Set up Blockchain Explorer for Nexchain Testnet.
+- Rollout necessary infrastructure for Nexchain Testnet accessibility: Blockchain Explorer, UI for launching tokens, UI for deploying custom smart contracts. AI-extensibility will be through API, though UI for deploying own AI Oracles is not planned at this stage.
 
 - Deploy Nexchain Native Bridge infrastructure and dependencies to major testnets and our testnet.
 
