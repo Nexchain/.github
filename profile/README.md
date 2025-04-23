@@ -44,11 +44,11 @@ The development roadmap includes a phased implementation, beginning with the pre
 
 - Implement architectural layout for AI agents extensibility and embed it into Nexchain EVM fork.
 
-- Outcome: infrastructural and implementation-wide readiness for Nexchain Testnet launch.
+- Outcome: infrastructural and implementation-wide readiness for Nexpolia launch.
 
-### Q3 2025 – Launch Nexchain Testnet
+### Q3 2025 – Launch Nexpolia
 
-- Rollout necessary infrastructure for Nexchain Testnet accessibility: Blockchain Explorer, UI for launching tokens, UI for deploying custom smart contracts. AI-extensibility will be through API, though UI for deploying own AI Oracles is not planned at this stage.
+- Rollout necessary infrastructure for Nexpolia accessibility: Blockchain Explorer, UI for launching tokens, UI for deploying custom smart contracts. AI-extensibility will be through API, though UI for deploying own AI Oracles is not planned at this stage.
 
 - Deploy Nexchain Native Bridge infrastructure and dependencies to major testnets and our testnet.
 
@@ -58,31 +58,31 @@ The development roadmap includes a phased implementation, beginning with the pre
 
 - Launching Airdrop and Farming Campaign.
 
-- Outcome: Fully functional and usable Nexchain Testnet with underlying infrastructure and user's tooling.
+- Outcome: Fully functional and usable Nexpolia with underlying infrastructure and user's tooling.
 
 ### Q4 2025 – Implement complete Mainnet setup
 
-- Prepare required technical infrastructure for Nexchain Mainnet launch.
+- Prepare required technical infrastructure for Nexchain launch.
 
-- Deliver complete implementation of go-nex our fork of go-ethereum, including several white-labeled AI Oracles, tested through Nexchain Testnet.
+- Deliver complete implementation of go-nex our fork of go-ethereum, including several white-labeled AI Oracles, tested through Nexpolia.
 
-- Deploy Nexchain Native Bridge infrastructure and dependencies to major L1 / L2 networks and our mainnet to guarantee operability and liquidity availability on Nexchain Mainnet.
+- Deploy Nexchain Native Bridge infrastructure and dependencies to major L1 / L2 networks and our mainnet to guarantee operability and liquidity availability on Nexchain.
 
-- Finalize implementation for Nexchain Native Bridge on Nexchain Mainnet with necessary AI Oracles integrations.
+- Finalize implementation for Nexchain Native Bridge on Nexchain with necessary AI Oracles integrations.
 
-- Deploy partner DeFi protocols to provide to users of Nexchain Mainnet network usability, accessibility and operability.
+- Deploy partner DeFi protocols to provide to users of Nexchain network usability, accessibility and operability.
 
-- Outcome: Complete technical readiness for the official Nexchain Mainnet launch.
+- Outcome: Complete technical readiness for the official Nexchain launch.
 
-### Q1 2026 – Launch Nexchain Mainnet
+### Q1 2026 – Launch Nexchain
 
-- Launching Public Beta for Nexchain Mainnet to gather initial feedback from closed group of beta testers.
+- Launching Public Beta for Nexchain to gather initial feedback from closed group of beta testers.
 
 - Use beta testing feedback to enhance network security, operability, user experience and any additional touch-points.
 
-- Partner with CEX providers to spin off Nexchain Mainnet support on CEX side.
+- Partner with CEX providers to spin off Nexchain support on CEX side.
 
-- Partner with extended list of major DeFi protocols to integrate them into Nexchain Mainnet ecosystem.
+- Partner with extended list of major DeFi protocols to integrate them into Nexchain ecosystem.
 
 ## 📊 Tokenomics
 Nexchain’s tokenomics model is structured to support network security, incentivize participation, and sustain long-term value through controlled issuance and strategic allocation. The total initial supply of Nexchain tokens is 2,150,000,000, distributed across various categories, including early-stage investment rounds, ecosystem incentives, staking rewards, and liquidity provisioning. Nexchain employs an inflationary issuance model with an annual burn mechanism to regulate supply while ensuring continued token utility.
