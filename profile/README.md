@@ -7,64 +7,82 @@ The development roadmap includes a phased implementation, beginning with the pre
 
 ## 🗺️ Roadmap
 
-### Phase 1: Token Sale and Network Initialization (Months 0-6)
-- Launch of Seed, Private, and Public Rounds, raising a total of $90.6 million.
+### Q4 2024 – Idea concept and architecture
+- Development of a blockchain prototype with basic PoC functionality and initial AI integration.
 
-- Deployment of Testnet v1.0, enabling early-stage validators and developer access.
+- Preparation of documentation and conceptual whitepaper.
 
-- Implementation of post-quantum cryptographic layer for early-stage security validation.
+- Design NEX coin tokenomics.
 
-- Establishment of initial DEX liquidity pools and market-making mechanisms.
+- Hiring core development and marketing team.
 
-- Launch of Nexchain developer SDKs and AI module integration tools.
+- Launching whitelist registrations.
 
-### Phase 2: Mainnet Launch and AI-Driven Optimization (Months 6-12)
+### Q1 2025 – Presale launch 
 
-- Deployment of Nexchain Mainnet v1.0, enabling AI-enhanced Proof-of-Stake consensus.
+- Creating and launching a website.
 
-- Activation of AI-driven fraud detection and anomaly detection models.
+- Active expansion of the Nexchain community: AMA sessions, social media.
 
-- Implementation of Smart Contracts 2.0, incorporating self-optimizing execution logic.
+- Announcement of public C-level Team.
 
-- Launch of staking rewards program, onboarding validators and delegators.
+- Launching a marketing campaign to promote the project.
 
-- Initial cross-chain bridge deployments, supporting Ethereum, BSC, and Polygon networks.
+- Expansion of Influencer and Media Relations.
 
-### Phase 3: Scalability Enhancements and Ecosystem Growth (Months 12-24)
+- Smart Contract audits.
 
-- Introduction of sharding and DAG-based parallel transaction processing for scalability.
+### Q2 2025 – Testnet PoC Implementation
 
-- Expansion of cross-chain interoperability, integrating additional blockchain networks.
+- Define architectural components of Nexchain EVM extension.
 
-- Deployment of decentralized AI services, enabling federated learning and AI model monetization.
+- Outline and prepare required infrastructure.
 
-- Optimization of self-healing network mechanisms, improving validator resilience.
+- Configure and customize blockchain indexer to fit Nexchain EVM extensions design architectural patterns for AI integrations into indexer.
 
-- Expansion of partnerships with DeFi, NFT, and enterprise blockchain applications.
+- Spin off public development of Nexchain within GitHub organization with public profiles for Nexchain Engineers.
 
-### Phase 4: Governance Integration and Mass Adoption (Months 24-36)
+- Implement architectural layout for AI agents extensibility and embed it into Nexchain EVM fork.
 
-- Activation of on-chain governance, enabling decentralized decision-making.
+- Outcome: infrastructural and implementation-wide readiness for Nexchain Testnet launch.
 
-- Launch of institutional adoption initiatives, targeting financial, healthcare, and IoT sectors.
+### Q3 2025 – Launch Nexchain Testnet
 
-- Integration of AI-powered automated policy enforcement for regulatory compliance.
+- Set up Blockchain Explorer for Nexchain Testnet.
 
-- Expansion of enterprise blockchain solutions, enabling large-scale adoption.
+- Deploy Nexchain Native Bridge infrastructure and dependencies to major testnets and our testnet.
 
-- Further enhancements to energy-efficient AI-driven network scaling.
+- Developers SDK to simplify interactions with AION (AI Oracle Network) and Nexchain as a whole.
 
-### Phase 5: Long-Term Expansion and Optimization (Beyond Month 36)
+- Public and Private RPC deployments.
 
-- Continued R&D in post-quantum cryptographic advancements.
+- Launching Airdrop and Farming Campaign.
 
-- Ongoing upgrades to AI-driven smart contract capabilities.
+- Outcome: Fully functional and usable Nexchain Testnet with underlying infrastructure and user's tooling.
 
-- Expansion into next-generation decentralized computing and AI-driven automation.
+### Q4 2025 – Implement complete Mainnet setup
 
-- Establishment of global research partnerships for AI-blockchain convergence.
+- Prepare required technical infrastructure for Nexchain Mainnet launch.
 
-- Development of new zero-knowledge proof implementations for enhanced privacy.
+- Deliver complete implementation of go-nex our fork of go-ethereum, including several white-labeled AI Oracles, tested through Nexchain Testnet.
+
+- Deploy Nexchain Native Bridge infrastructure and dependencies to major L1 / L2 networks and our mainnet to guarantee operability and liquidity availability on Nexchain Mainnet.
+
+- Finalize implementation for Nexchain Native Bridge on Nexchain Mainnet with necessary AI Oracles integrations.
+
+- Deploy partner DeFi protocols to provide to users of Nexchain Mainnet network usability, accessibility and operability.
+
+- Outcome: Complete technical readiness for the official Nexchain Mainnet launch.
+
+### Q1 2026 – Launch Nexchain Mainnet
+
+- Launching Public Beta for Nexchain Mainnet to gather initial feedback from closed group of beta testers.
+
+- Use beta testing feedback to enhance network security, operability, user experience and any additional touch-points.
+
+- Partner with CEX providers to spin off Nexchain Mainnet support on CEX side.
+
+- Partner with extended list of major DeFi protocols to integrate them into Nexchain Mainnet ecosystem.
 
 ## 📊 Tokenomics
 Nexchain’s tokenomics model is structured to support network security, incentivize participation, and sustain long-term value through controlled issuance and strategic allocation. The total initial supply of Nexchain tokens is 2,150,000,000, distributed across various categories, including early-stage investment rounds, ecosystem incentives, staking rewards, and liquidity provisioning. Nexchain employs an inflationary issuance model with an annual burn mechanism to regulate supply while ensuring continued token utility.
