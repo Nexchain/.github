@@ -48,33 +48,33 @@ The development roadmap includes a phased implementation, beginning with the pre
 
 ### Q3 2025 – Launch Nexpolia
 
-- Rollout necessary infrastructure for Nexpolia accessibility: Blockchain Explorer, UI for launching tokens, UI for deploying custom smart contracts. AI-extensibility will be through API, though UI for deploying own AI Oracles is not planned at this stage.
+- Launch initial Testnet environment for Nexpolia.
 
-- Deploy Nexchain Native Bridge infrastructure and dependencies to major testnets and our testnet.
+- Roll out Airdrop campaign to engage early community.
 
-- Developers SDK to simplify interactions with AION (AI Oracle Network) and Nexchain as a whole.
+- Announce and publish the updated Whitepaper v2.0.
 
-- Public and Private RPC deployments.
+- Deploy private RPC infrastructure to enable seamless developer access.
 
-- Launching Airdrop and Farming Campaign.
+- Prepare governance framework (NEX-AIP structure and community participation model).
 
-- Outcome: Fully functional and usable Nexpolia with underlying infrastructure and user's tooling.
+- Outcome: Fully functional and usable Nexpolia with underlying infrastructure and user’s tooling.
 
-### Q4 2025 – Implement complete Mainnet setup
+### Q4 2025 – Blockchain Infrastructure Scaling
 
-- Prepare required technical infrastructure for Nexchain launch.
+- Launch Testnet v2.0 with improved stability and performance.
 
-- Deliver complete implementation of go-nex our fork of go-ethereum, including several white-labeled AI Oracles, tested through Nexpolia.
+- Release Blockscout featuring custom AI-events tracking.
 
-- Deploy Nexchain Native Bridge infrastructure and dependencies to major L1 / L2 networks and our mainnet to guarantee operability and liquidity availability on Nexchain.
+- Integrate Safe-multisig support for enhanced security.
 
-- Finalize implementation for Nexchain Native Bridge on Nexchain with necessary AI Oracles integrations.
+- Deploy NEX-AIP-01/02 Contracts as part of protocol governance and upgrades.
 
-- Deploy partner DeFi protocols to provide to users of Nexchain network usability, accessibility and operability.
+- Prepare and finalize the required technical infrastructure for Mainnet launch.
 
-- Outcome: Complete technical readiness for the official Nexchain launch.
+- Outcome: Complete ecosystem and infrastructure readiness paving the way for Nexchain Mainnet launch.
 
-### Q1 2026 – Launch Nexchain
+### Q1 2026 – Network Expansion & Integrations
 
 - Launching Public Beta for Nexchain to gather initial feedback from closed group of beta testers.
 
